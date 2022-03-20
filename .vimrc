@@ -27,6 +27,9 @@ syntax on
 " Add numbers to the file.
 set number
 
+" Set textwidth to 76 characters.
+set textwidth=76
+
 " Highlight cursor line underneath the cursor horizontally.
 set cursorline
 
